@@ -1,10 +1,9 @@
-![InoMedLogo](https://github.com/stefow/Ino-Med/assets/117379966/9f32d0e2-1f5d-4c18-975e-504a0a3ec247)
 # Ino Med
 Ino Med je razvijen korištenjem tehnologije .NET u programskom jeziku C# s WPF (Windows Presentation Foundation) za korisničko sučelje, što osigurava modernu i intuitivnu upotrebu.
 
 Namjena je za korištenje u ordinacijama opće prakse (obiteljske medicine) s ciljem pružanja sljedećih funkcionalnosti:
 
-
+![InoMedLogo](https://github.com/stefow/Ino-Med/assets/117379966/9f32d0e2-1f5d-4c18-975e-504a0a3ec247)
 
 ## Početni ekran
 
