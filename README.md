@@ -23,6 +23,10 @@ Uključen je modul za upravljanje čekaonicom, koji omogućuje prijavu dolaska p
 ## Prepisivanje lijekova
 
 Liječnicima je omogućeno brzo i jednostavno prepisivanje recepata za lijekove pacijentima, uz mogućnost vođenja evidencije o propisanim terapijama i praćenje povijesti liječenja.
+- **Upisivanje anamneze i statusa:** Liječnicima je omogućeno detaljno bilježenje anamneze pacijenta i trenutnog statusa zdravstvenog stanja, što omogućuje potpuniji uvid u pacijentovu medicinsku povijest.
+- **Dodavanje DTP postupaka i MKB slučaja:** Sustav omogućuje dodavanje DTP (dijagnoza, terapija, procedura) postupaka i kodova MKB (Međunarodna klasifikacija bolesti) slučaja kako bi se preciznije dokumentirala dijagnostika i terapija pacijenata.
+- **Propisivanje uputnica:** Liječnici mogu jednostavno propisivati uputnice za specijalističke preglede ili dodatne medicinske procedure potrebne za daljnje liječenje pacijenata.
+- **Propisivanje terapija:** Omogućeno je precizno propisivanje terapija, uključujući lijekove, doziranje, način primjene i trajanje terapije, uz mogućnost praćenja prethodno propisanih terapija i njihovih učinaka.
 
 ![image](https://github.com/stefow/Ino-Med/assets/117379966/75fc8825-5f54-4264-a966-59e30358872b)
 
@@ -30,10 +34,12 @@ Liječnicima je omogućeno brzo i jednostavno prepisivanje recepata za lijekove 
 ## Izdavanje bolovnja
 
  Ino Med omogućuje izdavanje potvrda o bolovanju, uz detaljno vođenje evidencije o trajanju i razlogu bolovanja.
+ 
 ![image](https://github.com/stefow/Ino-Med/assets/117379966/9d66526d-56b2-47d3-8195-be4502fcfdd3)
-##Naručivanje pacijenata
-Pacijenti se mogu naručivati na preglede putem telefona ili interneta, uz opciju automatskog slanja podsjetnika o nadolazećim terminima.
+## Naručivanje pacijenata
+
 ![image](https://github.com/stefow/Ino-Med/assets/117379966/36356c63-c54e-453e-ae67-c4f351704e10)
+
 # *
 Uz sve navedene funkcionalnosti, Ino Med nudi poboljšan dizajn i intuitivno korisničko sučelje koje omogućuje lakši pristup i upotrebu u odnosu na prijašnja rješenja dostupna na tržištu.
 
